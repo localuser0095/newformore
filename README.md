@@ -1,2 +1,2 @@
 # newformore
-only html 
+only html products
